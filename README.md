@@ -4,7 +4,7 @@ First 'Hello World' written in TypeScript
 
 The purpose of this was to practice setting up a TypeScript environment and use a little TypeScript to create a "hello world" message.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=NkFGnK4ZSAw)
 
 # Development Environment
 
